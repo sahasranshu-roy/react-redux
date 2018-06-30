@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+.btn-1{
+  background-color: #eee;
+  border: 1px solid blue;
+  font: inherit;
+  padding: 5px;
+  cursor: pointer;
+}
